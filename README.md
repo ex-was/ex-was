@@ -17,9 +17,9 @@
 ### Последнее в блоге
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub и работа с несколькими аккаунтами/SSH-ключами на одной машине](https://talk.equibus.ru/git/github-i-rabota-s-neskolkimi-akkauntami-ssh-klyuchami-na-odnoj-mashine/)
 - [PHP 8.2: самое важное, что стоит знать](https://talk.equibus.ru/php-changelog/php-8-2-samoe-vazhnoe-chto-stoit-znat/)
 - [Фриланс в 2022: что делать, если живешь в России?](https://talk.equibus.ru/notes/frilans-v-2022-chto-delat-esli-zhivesh-v-rossii/)
-- [Извлечение адресов Bitcoin из мнемоников на PHP](https://talk.equibus.ru/kripta/konvertacziya-mnemonikov-bitcoin-v-validnye-adresa-na-php/)
 <!-- BLOG-POST-LIST:END -->
 
 
