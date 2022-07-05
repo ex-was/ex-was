@@ -17,9 +17,9 @@
 ### Последнее в блоге
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel: динамические конфиги](https://talk.equibus.ru/laravel/laravel-dinamicheskie-konfigi/)
-- [GitHub и работа с несколькими аккаунтами/SSH-ключами на одной машине](https://talk.equibus.ru/git/github-i-rabota-s-neskolkimi-akkauntami-ssh-klyuchami-na-odnoj-mashine/)
-- [PHP 8.2: самое важное, что стоит знать](https://talk.equibus.ru/php-changelog/php-8-2-samoe-vazhnoe-chto-stoit-znat/)
+- [Как правильно запустить контейнер Docker c приложением Laravel?](https://talk.equibus.ru/laravel/start-docker-container-fix-errors/)
+- [Laravel: динамические конфиги](https://talk.equibus.ru/laravel/dynamic-configs/)
+- [GitHub и работа с несколькими аккаунтами/SSH-ключами на одной машине](https://talk.equibus.ru/git/multiple-github-ssh-keys/)
 <!-- BLOG-POST-LIST:END -->
 
 
