@@ -17,7 +17,7 @@
 ### Последнее в блоге
 
 <!-- BLOG-POST-LIST:START -->
-- [Как правильно запустить контейнер Docker c приложением Laravel?](https://talk.equibus.ru/laravel/start-docker-container-fix-errors/)
+- [Docker и Laravel: исправляем ошибки](https://talk.equibus.ru/laravel/start-docker-container-fix-errors/)
 - [Laravel: динамические конфиги](https://talk.equibus.ru/laravel/dynamic-configs/)
 - [GitHub и работа с несколькими аккаунтами/SSH-ключами на одной машине](https://talk.equibus.ru/git/multiple-github-ssh-keys/)
 <!-- BLOG-POST-LIST:END -->
