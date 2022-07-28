@@ -17,9 +17,9 @@
 ### Последнее в блоге
 
 <!-- BLOG-POST-LIST:START -->
+- [DDoS бота Telegram: как оказалось, возможно](https://talk.equibus.ru/telegram/bot-api-ddos-is-possible/)
 - [Сортировка по числовому значению JSON в Eloquent](https://talk.equibus.ru/laravel/eloquent-order-by-numeric-json/)
 - [Docker и Laravel: исправляем ошибки](https://talk.equibus.ru/laravel/start-docker-container-fix-errors/)
-- [Laravel: динамические конфиги](https://talk.equibus.ru/laravel/dynamic-configs/)
 <!-- BLOG-POST-LIST:END -->
 
 
