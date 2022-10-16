@@ -12,7 +12,7 @@
 
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![image](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white) 
 
-Основной стек, конечно, PHP+Laravel, но к JS тоже дышу неравнодушно. Много работал я разными CMS на PHP (WordPress, Bitrix, Grav, Drupal, Joomla!, etc), но довольно давно отошел от них в сторону фреймворков.
+Основной стек, конечно, PHP+Laravel, но к JS тоже дышу неравнодушно. Много работал я разными CMS на PHP (WordPress, Bitrix, Grav, Drupal, Joomla!, etc), но довольно давно отошел от них в сторону фреймворков. Умею в сборку сложных и многоуровневых ботов при помощи Telegram Bot API.
 
 За примерно 7 лет работы делал разные штуки - небольшие блоги, сервисы API, CRM для компаний разного уровня, средние и небольшие онлайн маркетплейсы и так далее.
 
