@@ -12,13 +12,13 @@
 
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![image](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white) 
 
-Основной стек, конечно, PHP+Laravel, но к JS тоже дышу неравнодушно. Много работал с разными CMS на PHP (WordPress, Bitrix, Grav, Drupal, Joomla!, etc), но довольно давно отошел от них в сторону фреймворков. Умею в сборку сложных и многоуровневых ботов при помощи Telegram Bot API.
+Стек, который сую везде где только можно и нельзя - PHP+Laravel в связке со всякими модными штуками. Пока никто не видит тихо пишу микросервисы и монолиты средних размеров на JavaScript. Забыл о жизни до контейнеров Docker. Когда-то давно начинал с ванильных CMS (WordPress, Bitrix, Grav, Drupal, Joomla!, etc), но уже давно отошел от плотного взаимодействия с ними. Хорошо разбираюсь в ботах Telegram (могу нарисовать красивый пагинатор для списочков). Последний ~год плотно работаю с web3.
 
-За примерно 7 лет работы делал разные штуки - небольшие блоги, сервисы API, CRM для компаний разного уровня, средние и небольшие онлайн маркетплейсы и так далее.
+За 8 лет работы делал разные штуки - небольшие блоги, сервисы API, CRM для компаний разного уровня, средние и небольшие онлайн маркетплейсы и так далее.
 
-➖ [telegram](https://t.me/equibuss) ➖ [email](mailto:me@equibus.ru) ➖ [blog](https://talk.equibus.ru/) ➖
+➖ [telegram](https://t.me/equibus) ➖ [email](mailto:me@equibus.ru) ➖
 
-~~Открыт для интересных проектов.~~ Загружен ориентировочно до конца года.
+~~Открыт для интересных проектов. Загружен ориентировочно до конца года.~~ Загружен без конкретных дедлайнов.
 
 
 <!--
