@@ -22,6 +22,11 @@
 
 ~~Открыт для интересных проектов. Загружен ориентировочно до конца года.~~ Загружен без конкретных дедлайнов.
 
+### Stats 🦫
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!--
 **equibus/equibus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
