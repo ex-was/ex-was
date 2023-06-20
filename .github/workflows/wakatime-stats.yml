@@ -24,4 +24,3 @@ jobs:
           SHOW_UPDATED_DATE: false
           SHOW_TOTAL_CODE_TIME: false
           SHOW_TITLE: false
-          TIME_RANGE: "last_30_days"
