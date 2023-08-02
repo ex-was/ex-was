@@ -23,3 +23,5 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_OS: "False"
+          SYMBOL_VERSION: "2"
