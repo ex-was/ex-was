@@ -25,4 +25,4 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_OS: "False"
           SYMBOL_VERSION: "2"
-          SHOW_LINES_OF_CODE: "True"
+          SHOW_LINES_OF_CODE: "False"
