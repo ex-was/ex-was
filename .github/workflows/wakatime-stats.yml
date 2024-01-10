@@ -23,6 +23,6 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
-          SHOW_OS: "True"
+          SHOW_OS: "False"
           SYMBOL_VERSION: "2"
           SHOW_LINES_OF_CODE: "False"
