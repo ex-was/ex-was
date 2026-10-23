@@ -23,7 +23,7 @@
 ~~Открыт для интересных проектов. Загружен ориентировочно до конца года.~~ Загружен без конкретных дедлайнов.
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2025%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -39,37 +39,37 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               17 hrs 27 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   75.52 % 
-Text                     1 hr 40 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.23 % 
-Bash                     1 hr 19 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.72 % 
-HTML                     1 hr                ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.36 % 
-textmate                 27 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.98 % 
+TypeScript               14 hrs 48 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   73.19 % 
+Text                     1 hr 37 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.03 % 
+Bash                     1 hr 19 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.54 % 
+HTML                     54 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.50 % 
+textmate                 23 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.97 % 
 
 🔥 Editors: 
-WebStorm                 19 hrs 12 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   83.10 % 
-Claude Code              3 hrs 54 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.90 % 
+WebStorm                 16 hrs 36 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   82.10 % 
+Claude Code              3 hrs 37 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 10 mins (18.06%)
+⏱ AI Coding Time: 3 hrs 45 mins (18.62%)
 
-✍️ 3,134 lines written by AI, 5,129 lines written by hand (37.93% AI-written)
+✍️ 2,804 lines written by AI, 4,732 lines written by hand (37.21% AI-written)
 
-🔤 879,566 Input Tokens, 292,044 Output Tokens
+🔤 810,755 Input Tokens, 263,486 Output Tokens
 
-💵 $14.72 Estimated AI Cost This Week
+💵 $13.29 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 73 AI Prompts
+🧠 9 AI Sessions, 66 AI Prompts
 
-Sonnet                   3,181 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Sonnet                   2,815 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 37.93% of written lines came from AI
-📚 Verbose Prompter — average 1,808 characters per prompt
+⚖️ Balanced with AI — 37.21% of written lines came from AI
+📚 Verbose Prompter — average 1,954 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 66.64% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 67.62% of changed lines were hand-edited
 ```
 
 
